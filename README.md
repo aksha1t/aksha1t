@@ -1,18 +1,9 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hey, I'm Akshat</h1>
+# Akshat Mahajan <img src="https://media.giphy.com/media/hvRJCLzz8CztK/giphy.gif" width="28">
 
-<p align="center">
-  <b>B.Tech CSE (AI & ML) • Aspiring AI/ML & Software Developer</b>
-</p>
-
-<p align="center">
-  1st-year B.Tech CSE (AI & ML), entering 2nd year • Building skills in AI, Machine Learning, Frontend Development, and Problem Solving
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Machine%20Learning-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stack-React%20•%20Python%20•%20C-1E90FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Profile-Internship%20Ready-2F4F4F?style=for-the-badge" />
+<p align="left">
+  <img src="https://img.shields.io/badge/B.Tech-CSE%20(AI%20%26%20ML)-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineering%20%26%20Intelligence-007ACC?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Actively%20Seeking%20Internships-success?style=flat-square" />
 </p>
 
 ---
